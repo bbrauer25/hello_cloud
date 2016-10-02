@@ -1,0 +1,16 @@
+{
+  "name": "hello_cloud",
+  "version": "1.0.0",
+  "description": "Application for Assignment 1 in OSU Cloud and Mobile Dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobby Brauer",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "content-disposition": "^0.5.1",
+    "express": "^4.14.0"
+  }
+}
